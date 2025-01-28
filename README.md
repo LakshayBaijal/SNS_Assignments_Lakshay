@@ -12,7 +12,7 @@ This Assigment implements a secure multi-client server-client application using 
 - Secure Communication: Utilizes DES-CBC for encryption and HMAC-SHA256 for data integrity.
 - Diffie-Hellman Key Exchange: Establishes secure keys between the server and each client without transmitting them directly.
 - Session Management: Generates unique session tokens for each client to manage individual sessions securely.
-- Graceful Disconnects: Clients can disconnect gracefully, informing the server to clean up resources.
+- Disconnects: Clients can disconnect, informing the server to clean up resources.
 
 ## Architecture
 
