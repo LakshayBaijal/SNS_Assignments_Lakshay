@@ -6,6 +6,8 @@
 - Name: Lakshay Baijal 
 - Roll Number: 2024202006
 
+[Screencast from 2025-03-08 15-09-05.webm](https://github.com/user-attachments/assets/dd8374cb-2534-4a89-94b6-b40d67d183a0)
+
 ## Overview
 
 This project implements a secure telemedical conferencing system using cryptographic protocols, including ElGamal for authentication and AES-256 encryption for secure message communication. The implementation ensures confidentiality, integrity, and authentication between a doctor and multiple patient devices.
