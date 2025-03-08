@@ -6,10 +6,6 @@
 - Name: Lakshay Baijal 
 - Roll Number: 2024202006
 
-### Member 2
-- Name: S.V. Mohit Kumar
-- Roll Number: 2024201010
-
 ## Overview
 
 This project implements a secure telemedical conferencing system using cryptographic protocols, including ElGamal for authentication and AES-256 encryption for secure message communication. The implementation ensures confidentiality, integrity, and authentication between a doctor and multiple patient devices.
