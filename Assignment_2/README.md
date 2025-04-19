@@ -6,6 +6,10 @@
 - Name: Lakshay Baijal 
 - Roll Number: 2024202006
 
+### Member 2 
+- Name: S.V. Mohit  
+- Roll Number: 2024201010
+
 [Screencast from 2025-03-08 15-09-05.webm](https://github.com/user-attachments/assets/dd8374cb-2534-4a89-94b6-b40d67d183a0)
 
 ## Overview
