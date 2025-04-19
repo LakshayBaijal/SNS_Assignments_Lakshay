@@ -14,6 +14,12 @@
 - Name: Lakshay Baijal
 - Roll Number: 2024202006
 
+Device 1 attacker -
+[Screencast from 2025-04-19 23-23-41.webm](https://github.com/user-attachments/assets/7c417ae1-f4fb-4306-b196-2c2a14ffbefa)
+
+Device 2 NIDS -
+
+
 # Network Intrusion Detection System (NIDS)
 
 This project is a Python-based Network Intrusion Detection System (NIDS) designed to detect port scanning and OS fingerprinting attacks. Using Scapy for packet sniffing and analysis, the IDS monitors live network traffic, automatically logs suspicious activities, and can block offending IP addresses using system firewall rules on Linux (using iptables) or Windows (using netsh). This tool is intended for educational, testing, and experimental purposes.
