@@ -14,11 +14,11 @@
 - Name: Lakshay Baijal
 - Roll Number: 2024202006
 
-Device 1 Attacker -
 [Screencast from 2025-04-19 23-23-41.webm](https://github.com/user-attachments/assets/5f1ffdde-afe4-45c2-b8d4-162d9c18ffcf)
 
-Device 2 NIDS -
-https://github.com/user-attachments/assets/07c6d35f-37e0-4c50-b04e-f63292dbad9b
+
+
+ttps://github.com/user-attachments/assets/07c6d35f-37e0-4c50-b04e-f63292dbad9b
 
 
 
