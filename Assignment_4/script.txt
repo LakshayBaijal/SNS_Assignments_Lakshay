@@ -1,0 +1,32 @@
+gcc -m32 -g -fno-stack-protector -z execstack -o vuln code.c
+
+./vuln $(python3 -c 'print("A"*200)')
+
+gdb ./vuln
+
+break process_packet
+
+run $(python3 -c 'print("A"*200)')
+
+next    
+
+info registers ebp esp
+
+x/32x $esp
+
+continue
+
+info registers eip
+
+python3 -c "from pwn import cyclic; print(cyclic(200))" > pattern.txt
+
+./vuln
+break process_packet
+run $(cat pattern.txt)
+next
+continue
+info registers eip
+
+python3 -c "from pwn import cyclic_find; print(cyclic_find(0x616b6261))"
+
+sudo sysctl -w kernel.randomize_va_space=2
