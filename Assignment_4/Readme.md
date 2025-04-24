@@ -24,3 +24,7 @@ sudo apt install -y build-essential gdb python3 libc6-dev-i386
 ```bash
 sudo sysctl -w kernel.randomize_va_space=0
 ```
+
+- Check this link for Report in Tex
+
+https://github.com/LakshayBaijal/SNS_Assignments_Lakshay/blob/main/Assignment_4/SNS_Assignment4_Report.pdf
